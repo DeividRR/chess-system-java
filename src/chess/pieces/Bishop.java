@@ -1,7 +1,5 @@
 package chess.pieces;
 
-import java.io.ObjectInputStream.GetField;
-
 import boardgame.Board;
 import boardgame.Position;
 import chess.ChessPiece;
